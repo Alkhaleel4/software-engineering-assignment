@@ -13,10 +13,19 @@ Identify and describe at least three key milestones in the evolution of software
 
 ---1.Development of programming languages: This enhaced the performance of software engineering by the optimization in language design and compilation,leading to faster execution and better resource utilization.
 ---2.The establishment of software engineering as a discipline:The need for the establishment arose due to the innovations of high-level programming languages,structured programming,software development methodologies and so on.
----3.The advent of structured programming.
+---3.The advent of structured programming:
 List and briefly explain the phases of the Software Development Life Cycle.
 
+---1. Requirements.
+---2. Design.
+---3. Implementation.
+---4. Testing.
+---5. Deployment.
+---6. Maintenance.
 
+---1.Requirement: This incudes the proces of collecting data from user's needs and the system reuirements to carry on the software development.
+---2.Design: The process of creating high-level designs of how the software programs wil look like.
+---3.Implementation: Writing codes and building the software 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
