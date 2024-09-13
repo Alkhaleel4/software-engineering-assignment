@@ -41,7 +41,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 ---5.Deployment:This involves sending out the software products to the target audience.
 
----6
+---6.Maintenance:The products require maintenance to make them continue functioning well.
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 
